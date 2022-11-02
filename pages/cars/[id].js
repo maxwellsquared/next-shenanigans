@@ -34,6 +34,7 @@ export async function getServerSideProps({ params }) {
 //     }
 // }
 
+
 // export async function getStaticPaths() {
 //     const req = await fetch('http://localhost:3000/cars.json');
 //     const data = await req.json();
